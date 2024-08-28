@@ -43,7 +43,7 @@ const Header = () => (
 
         </div>
 
-        <a target='_blank' style={{ textDecoration: "none" }} rel="noreferrer" href="https://drive.google.com/file/d/1JyF9XdyraKy-85Z-c6hDBj2O-uUFMz6d/view?usp=drive_link">
+        <a target='_blank' style={{ textDecoration: "none" }} rel="noreferrer" href="https://drive.google.com/file/d/1dNmNRxc5bPquT__CRXh1LQGYv6o2MJAO/view?usp=sharing">
           <div className="tag-cmp app__flex">
             <Image width={"40"} src={cv} alt="Resume" />
             <p className="p-text resume">
