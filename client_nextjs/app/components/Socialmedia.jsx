@@ -1,5 +1,5 @@
 import React from 'react';
-import { BsTwitter,BsYoutube} from 'react-icons/bs';
+import { BsTwitter} from 'react-icons/bs';
 import { FaLinkedinIn,FaGithub} from 'react-icons/fa';
 
 const Socialmedia = () => {
@@ -7,7 +7,7 @@ const Socialmedia = () => {
     <div className='app__social'>
       <div className='app__socialmedia'>
 
-       <a href="https://twitter.com/anand_http" 
+       <a href="https://x.com/Anandxhttp" 
        target="_blank" rel="noreferrer"><BsTwitter/></a> 
 
       </div>
@@ -21,21 +21,9 @@ const Socialmedia = () => {
 
       <div className='app__socialmedia'>
 
-       <a href="https://www.linkedin.com/in/anand-pratap-singh-5223291a6/" 
+       <a href="https://www.linkedin.com/in/anand-pratap-singh-483b46334/" 
        target="_blank" rel="noreferrer"><FaLinkedinIn/></a> 
 
-      </div>
-
-      {/* <div className='app__socialmedia'>
-      <a href="https://www.facebook.com/profile.php?id=100043289796336" 
-       target="_blank" rel="noreferrer"><FaFacebookF /></a> 
-        
-      </div> */}
-
-      <div className='app__socialmedia'>
-      <a href="https://www.youtube.com/@anand_http" 
-       target="_blank" rel="noreferrer"><BsYoutube /></a> 
-        
       </div>
 
       {/* <div className='app__socialmedia'>

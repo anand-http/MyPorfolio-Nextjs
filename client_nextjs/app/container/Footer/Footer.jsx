@@ -96,12 +96,12 @@ const Footer = () => {
 
         <div className="app__footer-card ">
           <Image src={images.email} alt="email" />
-          <a href="mailto:rishusingh9369@gmail.com" className="p-text">rishusingh9369@gmail.com</a>
+          <a href="mailto:rishusingh9369@gmail.com" className="p-text">anandxhttp@gmail.com</a>
         </div>
 
         <div className="app__footer-card">
           <Image src={images.mobile} alt="phone" />
-          <a href="tel:+91 9695680505" className="p-text">+91 9695680505</a>
+          <a href="tel:+91 9695680505" className="p-text">+91 9369680068</a>
         </div>
 
       </div>
